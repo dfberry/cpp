@@ -1,0 +1,15 @@
+{
+  "name": "cpp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test -ws --if-present"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "workspaces":[
+    "my-e2e-tests"
+  ]
+}
